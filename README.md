@@ -1,1 +1,2 @@
 # odin-recipes
+The recipes project is a website that will consist of a main index page which will have links to a few recipes. Upon completion, we hope to have demonstrated the basic skills in properly using elements and tags, adding links and images, and writing Git commit messages.gi
