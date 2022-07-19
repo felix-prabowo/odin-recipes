@@ -1,0 +1,11 @@
+img {
+    width: auto;
+    height: 500px;
+}
+
+p,
+ul {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+    font-weight: 400;
+}
